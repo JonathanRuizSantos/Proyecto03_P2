@@ -1,0 +1,17 @@
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\bin\Debug\MascotaVirtualProyecto3.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\bin\Debug\MascotaVirtualProyecto3.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\bin\Debug\MascotaVirtualProyecto3.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MainWindow.g.cs
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\App.g.cs
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3_MarkupCompile.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3_MarkupCompile.lref
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MainWindow.baml
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3.g.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\SIN ARCHIVAR\MascotaVirtualProyecto3\obj\Debug\MascotaVirtualProyecto3.Form1.resources
